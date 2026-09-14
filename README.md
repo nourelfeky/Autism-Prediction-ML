@@ -205,20 +205,17 @@ Autism_Prediction_using_Machine_Learning/
 
 ---
 
-## 🚀 Future Improvements
+## Deployment
 
-Possible future improvements include:
+The project was deployed using Streamlit.
 
-* Hyperparameter tuning
-* Cross-validation
-* More detailed model comparison
-* Feature importance analysis
-* Improving model performance
-* Adding a user-friendly interface
-* Deploying the trained models as a web application
-* Exploring additional Machine Learning and Deep Learning approaches
+The deployed application allows users to:
+- Answer the AQ-10 screening questions
+- Enter personal and background information
+- Get predictions from Decision Tree, Random Forest, and XGBoost
+- Compare predictions and ASD probabilities
 
----
+This is an educational project and is not intended for medical diagnosis.
 
 ## 👥 Team Collaborators
 
